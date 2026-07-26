@@ -1,0 +1,17 @@
+# Raw data — don't commit CSVs (large, and publicly available on Kaggle anyway)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / credentials — NEVER commit DB passwords or connection strings
+.env
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
