@@ -176,28 +176,6 @@ SELECT
   COUNT(DISTINCT customer_unique_id) AS unique_real_person_count
 FROM customers;
 
--- ~ these 3k difference is the whole point actually they are the repetative customers
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
