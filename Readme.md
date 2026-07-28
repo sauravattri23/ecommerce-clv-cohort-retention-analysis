@@ -39,7 +39,7 @@ products, and sellers.
 
 ## Project Status
 - [x] **Phase 1** — PostgreSQL setup, schema design, data ingestion & verification
-- [ ] **Phase 2** — SQL cleaning, RFM base table, cohort table
+- [x] **Phase 2** — SQL cleaning, RFM base table, cohort table
 - [ ] **Phase 3** — CLV modeling in Python (BG/NBD + Gamma-Gamma)
 - [ ] **Phase 4** — Power BI dashboard
 - [ ] **Phase 5** — Business recommendation & final write-up
